@@ -57,3 +57,5 @@ schema.json
 schema.graphql
 schema.graphqls
 /cache/
+# for the yarn will store the npm mirror which is unavailable on travis ci
+yarn.lock
